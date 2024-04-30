@@ -1,0 +1,71 @@
+.contayner{
+    max-width: 384px;
+    margin: 0 auto;
+    width: 384px;
+    height: 611px;
+    border-radius: 10px;
+    background-color: #1f1f1f;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 100px;
+}
+.ozmdrasm{
+    width: 88px;
+    height: 88px;
+    border-radius: 50px;
+    margin-left: 148px;
+    margin-top: 40px;
+}
+.yozular{
+    color: aliceblue;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.div_2{
+    margin-top: 10px;
+    text-align: center;
+    color: chartreuse;
+    font-size: 14px;
+}
+.div_3{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 24px;
+    font-size: 20px;
+}
+.buttolar{
+    width: 304px;
+    height: 289px;
+    margin-top: 24px;
+    margin-left: 40px;
+}
+.buttolar_ichda{
+    cursor: pointer;
+   margin-top: 16px;
+    border-radius: 10px;
+    width:304px;
+    height:45px;
+    transition: all 1s;
+    color: aliceblue;
+    background-color: #333;
+}
+.buttolar_ichda:hover{
+    background-color: rgb(255, 0, 0);
+    transform: scale(115%);
+    color: rgb(0, 0, 0);
+}
+.buttolar_ichda_{
+    cursor: pointer;
+  
+    border-radius: 10px;
+    width:304px;
+    height:45px;
+    transition: all 1s;
+    color: aliceblue;
+    background-color: #333;
+}
+.buttolar_ichda_:hover{
+    background-color: rgb(255, 0, 0);
+    transform: scale(115%);
+    color: rgb(0, 0, 0);
+}
